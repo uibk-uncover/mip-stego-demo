@@ -3,6 +3,15 @@
 
 Steganography Demo for MIP Day in Innsbruck 2024
 
+## DEV: steps
+
+- develop notebooks/*whatever*_full.ipynb with the complete content
+    - end of the presentation is the hands-on, containing the solution
+    - get inspiration from https://github.com/uibk-uncover/prague-jpeg-demo
+- once done, copy the notebook into notebooks/*whatever*.ipynb
+    - remove the solution
+- then we can deal with the presentation and stuff
+
 ## Coding it myself
 
 1. <a href="https://colab.research.google.com/github/uibk-uncover/mip-stego-demo/blob/master/notebooks/1_images.ipynb" target="_blank">Digital images</a>
