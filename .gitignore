@@ -161,3 +161,6 @@ cython_debug/
 
 notebooks/*.tif
 notebooks/*.png
+
+# Apple
+.DS_Store
